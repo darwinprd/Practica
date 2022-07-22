@@ -1,2 +1,2 @@
-# Practica
-Construccion de Software
+# CONTROL DE INVENTARIO
+CALIDAD de Software
